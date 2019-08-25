@@ -1,3 +1,3 @@
 # SPMHelloWorld
 
-A description of this package.
+Swift Package Hello World Demo
