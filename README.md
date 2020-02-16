@@ -1,3 +1,3 @@
 # SPMHelloWorld
 
-Swift Package Hello World Demo
+Swift Package Hello World!
